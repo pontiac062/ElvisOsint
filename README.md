@@ -26,8 +26,8 @@ This project is a comprehensive website scraper that extracts emails, telephone 
 
 2. Create and activate a virtual environment (optional but recommended):
     ```bash
-    python3 -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   [ python3 -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate](https://github.com/pontiac062/ElvisOsint.git)`
     ```
 
 3. Install the required packages:
