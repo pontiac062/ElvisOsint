@@ -44,7 +44,7 @@ This project is a comprehensive website scraper that extracts emails, telephone 
 
 1. Run the script:
     ```bash
-    python scraper.py
+    python3 scraper6.py
     ```
 
 2. Enter the domain (without `http`/`https`) in the provided input field.
